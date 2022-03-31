@@ -7,9 +7,9 @@ I have since moved to web app development. My current favorite framework is Angu
 - Here is my LinkedIn: [in/staticvoidmain](https://www.linkedin.com/in/staticvoidmain/)
 - Here is my website: [staticvoidmain.dev](https://staticvoidmain.dev)
 
-I currently work professionally as a Software Engineer. 🐱‍💻<br/>
-I have a two degrees in Computer Engineering. 🎓🎓<br/>
-I am a PC gamer. 🎮 ⌨️ 🖱️ 🖥️<br/>
+I currently work professionally as a Software Engineer. 💻<br/>
+I have two degrees in Computer Engineering. 🎓🎓<br/>
+My hobbies include: PC Gaming. 🎮 ⌨️ 🖱️ 🖥️<br/>
 
 I do computer stuff.
 
