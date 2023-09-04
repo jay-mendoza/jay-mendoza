@@ -4,7 +4,6 @@ I do computer stuff.
 Everything you see here are my personal projects. I mainly have a bunch of [WPF apps](https://github.com/jay-mendoza?tab=repositories&q=wpf) from about a a decade ago.<br/>
 I have since moved to web app development. My current favorite framework is Angular.
 
-- Here is my LinkedIn: [in/staticvoidmain](https://www.linkedin.com/in/staticvoidmain/)
 - Here is my website: [staticvoidmain.dev](https://staticvoidmain.dev)
 
 I currently work professionally as a Software Engineer. 💻<br/>
